@@ -1,0 +1,707 @@
+{
+  "categories": [
+    {
+      "id": "classic",
+      "name": "Classic Collection",
+      "tagline": "Everyday classics, extraordinary flavour.",
+      "desc": "Timeless favourites, lovingly crafted with familiar flavours and beautifully balanced textures.",
+      "image": "hero-images/hero-classic.jpg",
+      "tone": "classic"
+    },
+    {
+      "id": "signature",
+      "name": "Signature Cakes",
+      "tagline": "Master baker's finest creations.",
+      "desc": "Bold, unique flavours and artful designs, created to make every celebration unforgettable.",
+      "image": "hero-images/hero-signature.jpg",
+      "tone": "signature"
+    },
+    {
+      "id": "premium",
+      "name": "Premium Cakes",
+      "tagline": "Taste the pinnacle of perfection.",
+      "desc": "Luxurious flavours, exquisite textures, and indulgent creations crafted for truly special moments.",
+      "image": "hero-images/hero-premium.jpg",
+      "tone": "premium"
+    },
+    {
+      "id": "fresh",
+      "name": "Fresh & Fruity Series",
+      "tagline": "Light, fresh, and naturally indulgent.",
+      "desc": "A refreshing celebration of vibrant fruits, delicate creams, and naturally delightful flavours.",
+      "image": "hero-images/hero-fresh.jpg",
+      "tone": "fresh"
+    },
+    {
+      "id": "cheesecake",
+      "name": "Baked Cheesecake Favourites",
+      "tagline": "The pinnacle of cheesecake perfection.",
+      "desc": "Rich, creamy, and beautifully baked, with irresistible flavours crafted for true cheesecake lovers.",
+      "image": "hero-images/hero-cheesecake.jpg",
+      "tone": "cheesecake"
+    },
+    {
+      "id": "royal",
+      "name": "Royal Delight Cakes",
+      "tagline": "A regal feast for the senses.",
+      "desc": "Opulent flavours, luxurious layers, and exquisite finishes designed to make every bite feel extraordinary.",
+      "image": "hero-images/hero-royal.jpg",
+      "tone": "royal"
+    },
+    {
+      "id": "regular",
+      "name": "Regular Cakes",
+      "tagline": "Simple flavours, infinite comfort.",
+      "desc": "Familiar favourites made with care— simple, delicious, and perfect for everyday celebrations.",
+      "image": "hero-images/hero-regular.jpg",
+      "tone": "regular"
+    }
+  ],
+  "products": {
+    "classic": [
+      {
+        "n": "Black Forest",
+        "p": 750,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small size ₹430",
+          "Mini cake ₹280"
+        ]
+      },
+      {
+        "n": "Litchy Butterscotch",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Dark Vancho",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹400"
+        ]
+      },
+      {
+        "n": "Chocolate Sachar Cake",
+        "p": 900,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹470",
+          "Mini cake ₹340"
+        ]
+      },
+      {
+        "n": "Praline Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Fruit Vancho Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹400"
+        ]
+      },
+      {
+        "n": "Choco Fancy Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Milk Vancho Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹400"
+        ]
+      },
+      {
+        "n": "Mango Cake",
+        "p": 850,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹470",
+          "Mini cake ₹340"
+        ]
+      },
+      {
+        "n": "Dates & Carrot Cake",
+        "p": 550,
+        "t": []
+      },
+      {
+        "n": "Choco Flacks Cake",
+        "p": 800,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹450",
+          "Mini cake ₹320"
+        ]
+      },
+      {
+        "n": "Choco Rock",
+        "p": 1250,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹680",
+          "Mini cake ₹530"
+        ]
+      },
+      {
+        "n": "Litchi Almond Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Red Forest Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Rich Blueberry Cake",
+        "p": 1150,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹630",
+          "Mini cake ₹450"
+        ]
+      },
+      {
+        "n": "Strawberry Cake",
+        "p": 850,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹470",
+          "Mini cake ₹340"
+        ]
+      }
+    ],
+    "signature": [
+      {
+        "n": "Butterscotch Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Pineapple Cake",
+        "p": 850,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹470",
+          "Mini cake ₹340"
+        ]
+      },
+      {
+        "n": "Nutty Bubbly Cake",
+        "p": 1150,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹630",
+          "Mini cake ₹450"
+        ]
+      },
+      {
+        "n": "White Forest Cake",
+        "p": 800,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹450",
+          "Mini cake ₹320"
+        ]
+      },
+      {
+        "n": "White Vancho Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹400"
+        ]
+      },
+      {
+        "n": "Choco Nutlayer Cake",
+        "p": 1050,
+        "t": [
+          "Pastry ₹100",
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹400"
+        ]
+      },
+      {
+        "n": "Redvelvet Cake",
+        "p": 1150,
+        "t": [
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹630",
+          "Small cake ₹450"
+        ]
+      },
+      {
+        "n": "Choco Holiks Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹420"
+        ]
+      },
+      {
+        "n": "Spanish Delight",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹420"
+        ]
+      },
+      {
+        "n": "Brownie Cake",
+        "p": 1100,
+        "t": []
+      },
+      {
+        "n": "Choco Truffle Cake",
+        "p": 1150,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹630",
+          "Mini cake ₹450"
+        ]
+      },
+      {
+        "n": "Irish Coffee Cake",
+        "p": 1000,
+        "t": [
+          "Small Cake ₹550",
+          "Mini Cake ₹400",
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Caramel Fudge Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹420"
+        ]
+      },
+      {
+        "n": "Choco Fudge Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹420"
+        ]
+      },
+      {
+        "n": "Lavender Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Vancho Delight Cake",
+        "p": 1050,
+        "t": [
+          "Pastry ₹100",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Eggfree extra charge included",
+          "Small cake ₹580",
+          "Mini cake ₹400"
+        ]
+      },
+      {
+        "n": "Honey Nut Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹630"
+        ]
+      },
+      {
+        "n": "Oreo Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Pista Cake",
+        "p": 1050,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹580",
+          "Mini cake ₹400"
+        ]
+      }
+    ],
+    "premium": [
+      {
+        "n": "Lotus Biscoff Cake",
+        "p": 1400,
+        "t": [
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹800"
+        ]
+      },
+      {
+        "n": "Raffaello Cake",
+        "p": 1500,
+        "t": [
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Nutella Cake",
+        "p": 1250,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹680",
+          "Mini cake ₹530"
+        ]
+      },
+      {
+        "n": "Rich Choco Almond Cake",
+        "p": 1500,
+        "t": [
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Rainbow Cake",
+        "p": 1300,
+        "t": []
+      },
+      {
+        "n": "Cappuccino Cake",
+        "p": 950,
+        "t": [
+          "Eggfree extra charge included",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹530",
+          "Mini cake ₹370"
+        ]
+      },
+      {
+        "n": "Fruit & Nut Cake",
+        "p": 1400,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹800",
+          "Mini cake ₹600"
+        ]
+      },
+      {
+        "n": "Rich Chocolate Gateaux",
+        "p": 1600,
+        "t": []
+      },
+      {
+        "n": "Dry Fruits Cake",
+        "p": 1400,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹800",
+          "Mini cake ₹600"
+        ]
+      },
+      {
+        "n": "Malai Pista Cake",
+        "p": 1150,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹630",
+          "Mini cake ₹450"
+        ]
+      },
+      {
+        "n": "Choco Nut Cake",
+        "p": 1300,
+        "t": [
+          "Small Cake ₹700",
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100",
+          "Mini cake ₹530"
+        ]
+      },
+      {
+        "n": "Choco Red Velvet Cake",
+        "p": 1400,
+        "t": [
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹800",
+          "Mini cake ₹600"
+        ]
+      },
+      {
+        "n": "Ferrero Rocher Cake",
+        "p": 1600,
+        "t": [
+          "Pastry ₹140",
+          "Tier Charge/Kg ₹100",
+          "2 Layer Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Choco Hazelnut Cake",
+        "p": 1700,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹900",
+          "Pastry ₹170"
+        ]
+      },
+      {
+        "n": "Crunchy Nut Cake",
+        "p": 1250,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹680",
+          "Mini cake ₹530"
+        ]
+      },
+      {
+        "n": "Rich Almond Cake",
+        "p": 1500,
+        "t": [
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Choco Berry Almond Cake",
+        "p": 1500,
+        "t": [
+          "2 Layer Charge/Kg ₹100",
+          "Tier Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Red Vancho Cake",
+        "p": 1150,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹630"
+        ]
+      }
+    ],
+    "fresh": [
+      {
+        "n": "Fruit Alize Cake",
+        "p": 1400,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Choco Fruit Gateaux",
+        "p": 1400,
+        "t": [
+          "Eggfree extra charge included"
+        ]
+      },
+      {
+        "n": "Fresh Fruits Cake",
+        "p": 1250,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹100"
+        ]
+      },
+      {
+        "n": "Royal Fruit Gateaux",
+        "p": 1600,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹100"
+        ]
+      }
+    ],
+    "cheesecake": [
+      {
+        "n": "Blueberry Cheese Cake",
+        "p": 1600,
+        "t": []
+      }
+    ],
+    "royal": [
+      {
+        "n": "Pistachio Kunafa Gateaux",
+        "p": 2100,
+        "t": []
+      },
+      {
+        "n": "Berry Pistachio Gateaux",
+        "p": 1900,
+        "t": []
+      }
+    ],
+    "regular": [
+      {
+        "n": "Vanilla Cake",
+        "p": 680,
+        "t": [
+          "Eggfree extra charge included",
+          "2 Layer Charge/Kg ₹50",
+          "Tier Charge/Kg ₹100",
+          "Small cake ₹370",
+          "Mini cake ₹260"
+        ]
+      }
+    ]
+  },
+  "bakeroomImage": "https://images.pexels.com/photos/17283922/pexels-photo-17283922.jpeg?auto=compress&cs=tinysrgb&w=1400",
+  "gallery": [
+    "gallery/gallery-01.jpg",
+    "gallery/gallery-02.jpg",
+    "gallery/gallery-03.jpg",
+    "gallery/gallery-04.jpg",
+    "gallery/gallery-05.jpg",
+    "gallery/gallery-06.jpg",
+    "gallery/gallery-07.jpg",
+    "gallery/gallery-08.jpg",
+    "gallery/gallery-09.jpg",
+    "gallery/gallery-10.jpg",
+    "gallery/gallery-11.jpg",
+    "gallery/gallery-12.jpg",
+    "gallery/gallery-13.jpg",
+    "gallery/gallery-14.jpg",
+    "gallery/gallery-15.jpg",
+    "gallery/gallery-16.jpg",
+    "gallery/gallery-17.jpg",
+    "gallery/gallery-18.jpg",
+    "gallery/gallery-19.jpg",
+    "gallery/gallery-20.jpg",
+    "gallery/gallery-21.jpg",
+    "gallery/gallery-22.jpg",
+    "gallery/gallery-23.jpg",
+    "gallery/gallery-24.jpg",
+    "gallery/gallery-25.jpg",
+    "gallery/gallery-26.jpg",
+    "gallery/gallery-27.jpg",
+    "gallery/gallery-28.jpg",
+    "gallery/gallery-29.jpg",
+    "gallery/gallery-30.jpg",
+    "gallery/gallery-31.jpg",
+    "gallery/gallery-32.jpg",
+    "gallery/gallery-33.jpg",
+    "gallery/gallery-34.jpg"
+  ]
+}
